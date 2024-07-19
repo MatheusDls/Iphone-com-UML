@@ -1,9 +1,11 @@
+# Exemplo de Diagrama UML (Mermaid) by: Matheus Lima
+
+```mermaid
 classDiagram
     class ReprodutorMusical {
         +tocarMusica()
         +pausar()
         selecionarMusica()
-
     }
 
     class AparelhoTelefonico {
