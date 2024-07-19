@@ -5,7 +5,7 @@ classDiagram
     class ReprodutorMusical {
         +tocarMusica()
         +pausar()
-        selecionarMusica()
+        +selecionarMusica()
     }
 
     class AparelhoTelefonico {
